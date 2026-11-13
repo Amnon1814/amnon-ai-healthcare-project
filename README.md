@@ -89,3 +89,6 @@ Dataset license: CC BY 4.0. Credit the dataset source in your report.
 - No external validation, prospective evaluation, or clinical validation.
 - The demo form accepts fictional inputs and does not represent a safe patient workflow.
 - SQLite is for local demo records only; do not use it for identifiable health data.
+# amnon-ai-healthcare-project
+AI-powered healthcare analytics and patient risk prediction using machine learning
+
